@@ -1,0 +1,15 @@
+Sample Input
+5 2
+
+Sample Output
+2
+
+Explanation: Pairs satisfying all conditions are: (2, 2), (2, 4)
+
+Sample Input
+5 3
+
+Sample Output
+1
+
+Explanation: Pairs satisfying all conditions are: (3, 3)
